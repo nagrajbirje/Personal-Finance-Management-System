@@ -1,0 +1,30 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Database (local only, don’t push)
+db.sqlite3
+
+# System files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
